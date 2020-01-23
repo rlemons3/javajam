@@ -1,0 +1,25 @@
+body{
+    background-color: #FCEBB6;
+    color: #221811;
+    font-family: ("verana", "arial", sans-serif);      
+}
+
+header{
+    background-color: #D2B48C;
+   text-align:center;
+}
+
+h1{
+    line-height: 200%;
+}
+
+.nav{
+    text-align: center;
+    font-weight: bold;
+}
+div{
+    background-color: #D2B48C;
+    font-size: .60em;
+    font-style:italic;
+    text-align:center;
+}
